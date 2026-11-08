@@ -54,7 +54,6 @@ trojan://rnspueqcszw1c3jf@aiguoyun.duckdns.org:58784?peer=aiguoyun.duckdns.org&a
 vmess://YXV0bzozNDUwNjI5Yi01ZTdkLTQzNWMtODY3OS1jMGFhMzBiNDE1YWJAYWlndW95dW4uZHVja2Rucy5vcmc6MjI0OTI?path=/ws&remarks=Gemini%E4%B8%93%E7%BA%BF2&obfsParam=aiguoyun.duckdns.org&obfs=websocket&tls=1&alpn=http/1.1&udp=1&alterId=0
 vmess://YXV0bzozNDUwNjI5Yi01ZTdkLTQzNWMtODY3OS1jMGFhMzBiNDE1YWJAYWlndW95dW4uZHVja2Rucy5vcmc6NDk0Mjg?path=/&remarks=Gemini%E4%B8%93%E7%BA%BF3&tls=1&peer=aiguoyun.duckdns.org&alpn=h2,http/1.1&udp=1&alterId=0
 vmess://YXV0bzozNDUwNjI5Yi01ZTdkLTQzNWMtODY3OS1jMGFhMzBiNDE1YWJAYWlndW95dW4uZHVja2Rucy5vcmc6MjMwNTM?path=/&remarks=Gemini%E4%B8%93%E7%BA%BF4&udp=1&alterId=0
-sub://aHR0cDovL2FpZ3VveXVuLmR1Y2tkbnMub3JnOjIwOTYvcGl4ZXBrY2o2bzJlcXU1Mi9yMzNxNGdpcjc0bzNtN3Fl
 乱七八糟shengxiade
 trojan://b37a6f97-18a1-4c13-9ebd-343c76189220@xiaozhux8.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
 trojan://a87977f3-5fdf-4f71-9006-e038a11a43c1@xiaozhux8.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
