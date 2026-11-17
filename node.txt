@@ -9,13 +9,10 @@ trojan://91766123-a4b7-4b31-bc28-2bed5ecceb88@xiaozhuaaaa3.xiaozhu9545515.com:49
 trojan://54848892-f1a0-4884-8f71-25262836d0d9@xiaozhuaaaa3.xiaozhu9545515.com:41274?allowInsecure=1&peer=www.itunes.com&tfo=1#%E4%B8%8D%E7%94%A8%E6%97%B6%E6%96%AD%E5%BC%80%E8%BF%9E%E6%8E%A5
 trojan://eadddc29-adb6-4566-a08d-f1ef80e41bfe@xiaozhuaaaa3.xiaozhu9545515.com:41275?allowInsecure=1&peer=www.itunes.com&tfo=1#%E4%B8%A5%E7%A6%81%E5%8F%91%E8%A1%A8/%E8%AF%84%E8%AE%BA/%E8%BD%AC%E5%8F%91%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA
 trojan://ce5c3eca-575c-4bc2-8291-95fbb4810755@xiaozhuaaaa3.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%E7%A5%9D%E6%82%A8%E7%94%9F%E6%B4%BB%E6%84%89%E5%BF%AB
-trojan://dc026d17-eeb7-455f-97eb-3d779ca24245@xiaozhuaaaa3.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC2
 trojan://72222a69-e0c6-4586-a6c8-9a6892651051@xiaozhuaaaa3.xiaozhu9545515.com:41274?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE1
-trojan://b5ac4c23-a4c4-4746-8d0e-33121c8882d1@xiaozhuaaaa3.xiaozhu9545515.com:41275?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
 trojan://f2f35a8f-8124-4e9d-bf96-388064e83c93@xiaozhuaaaa3.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
 trojan://d1130282-ab34-42aa-ad81-2d9e22ef974e@xiaozhuaaaa3.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
 trojan://34a557e7-d4ce-4014-84b8-bf49e049474a@xiaozhuaaaa3.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
-trojan://a4761572-a895-411f-b154-cf5ab05db258@xiaozhuaaaa3.xiaozhu9545515.com:41274?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE1
 trojan://22374dde-e76d-4b71-ae23-1decb32f0d65@xiaozhuaaaa3.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC2
 trojan://d62f1d9b-bb0d-486a-84d8-9c90bce1773a@xiaozhuaaaa3.xiaozhu9545515.com:41275?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
 trojan://5e02cd2a-4bed-42c3-8b0f-627a5966a55d@xiaozhuaaaa3.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
@@ -82,12 +79,7 @@ trojan://6f04f667-a6ed-43d7-b0d4-21abdebee5f9@xiaozhuaaaa3.xiaozhu9545515.com:41
 trojan://17aecb20-ddbe-4499-a617-76b0d7349a40@xiaozhuaaaa3.xiaozhu9545515.com:41274?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE1
 trojan://052a4f6a-0097-4229-aa83-6955fd374f96@xiaozhuaaaa3.xiaozhu9545515.com:41277?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A11
 trojan://9dc5c384-df85-4a4b-a4d2-0677374c3d19@xiaozhuaaaa3.xiaozhu9545515.com:41277?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A11
-trojan://362a7822-8812-4822-92cf-2383f527fb81@xiaozhuaaaa3.xiaozhu9545515.com:41275?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
 trojan://7c08cf31-6846-4734-8ab2-b3a2902c8638@xiaozhuaaaa3.xiaozhu9545515.com:41275?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
-trojan://fdda4901-4f41-4755-9fce-92978d2f82ec@xiaozhuaaaa3.xiaozhu9545515.com:41274?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE1
-trojan://028a47e7-f96f-4d5d-b949-dc3eb6540b8a@xiaozhuaaaa2.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
-trojan://83dca1fa-12a8-4d03-ab60-f7814269885d@xiaozhux9.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
-trojan://f07b404d-96c8-4e64-a37e-6a3fefa6646e@xiaozhuaaaa3.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
 1服务器 vlessm
 vless://OjY3ZTBmNjc5LTY1ZjUtNDdkOS04MDBkLTAwNGQ2NjYwNjUyMUBnby5zeXN0bXNlcnZpY2UuY29tOjQ0Mw?remarks=%E7%82%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E5%B7%A6%E4%B8%8B%E8%A7%92-%E8%AE%BE%E7%BD%AE&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
 vless://OjY3ZTBmNjc5LTY1ZjUtNDdkOS04MDBkLTAwNGQ2NjYwNjUyMUBnby5zeXN0bXNlcnZpY2UuY29tOjQ0Mw?remarks=%E7%82%B9tcp%E7%82%B9%E6%8C%87%E7%BA%B9%E9%80%89%E6%8B%A9chrome140&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
@@ -112,3 +104,11 @@ trojan://4u30wjogi0qgquw0@go.systmservice.com:47517?peer=go.systmservice.com&alp
 trojan://4u30wjogi0qgquw0@go.systmservice.com:28024?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1Gemini%E4%B8%93%E7%BA%BF4
 trojan://4u30wjogi0qgquw0@go.systmservice.com:41028?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1Gemini%E4%B8%93%E7%BA%BF1
 trojan://4u30wjogi0qgquw0@go.systmservice.com:42514?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1Gemini%E4%B8%93%E7%BA%BF2
+7服务
+trojan://rbzuxd9uwabaqtsd@svan.systmservice.com:12910?peer=svan.systmservice.com&alpn=http/1.1&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dsvan.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#7%E5%A4%87%E7%94%A8%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B81
+trojan://rbzuxd9uwabaqtsd@svan.systmservice.com:27270?peer=svan.systmservice.com&alpn=http/1.1&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dsvan.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#7%20%E5%A4%87%E7%94%A8%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B82
+trojan://rbzuxd9uwabaqtsd@svan.systmservice.com:47863?peer=svan.systmservice.com&alpn=http/1.1&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dsvan.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#7%20%E5%A4%87%E7%94%A8%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B83
+trojan://rbzuxd9uwabaqtsd@svan.systmservice.com:37811?peer=svan.systmservice.com&alpn=http/1.1&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dsvan.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#7%E5%A4%87%E7%94%A8%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B84
+trojan://rbzuxd9uwabaqtsd@svan.systmservice.com:54119?peer=svan.systmservice.com&alpn=http/1.1&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dsvan.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#7%20%E5%A4%87%E7%94%A8%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B85
+trojan://rbzuxd9uwabaqtsd@svan.systmservice.com:24178?peer=svan.systmservice.com&alpn=http/1.1&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dsvan.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#7%20%E5%A4%87%E7%94%A8%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B86
+trojan://rbzuxd9uwabaqtsd@svan.systmservice.com:10482?peer=svan.systmservice.com&alpn=http/1.1&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dsvan.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#7%E5%A4%87%E7%94%A8%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B87
