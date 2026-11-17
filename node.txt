@@ -1,9 +1,10 @@
 ios线路
 服务器1文字说明
-trojan://p1l06y944sjj5bac@go.systmservice.com:13023?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#11%F0%9F%88%B7%EF%B8%8F16%E6%97%A5%E6%9B%B4%E6%96%B0
-trojan://p1l06y944sjj5bac@go.systmservice.com:33045?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1%E4%BD%BF%E7%94%A8%E5%89%8D%E7%82%B9%E6%9B%B4%E6%96%B0
-trojan://p1l06y944sjj5bac@go.systmservice.com:26809?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1%E6%9B%B4%E6%96%B0%E6%88%90%E5%8A%9F%E5%90%8E%E5%86%8D%E8%BF%9E%E6%8E%A5
-trojan://p1l06y944sjj5bac@go.systmservice.com:24202?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1%E6%84%9F%E8%B0%A2%E6%82%A8%E6%94%AF%E6%8C%81%E5%8E%9A%E7%88%B1
+trojan://7xp5qfsttjh6j46h@go.systmservice.com:16338?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#11%E6%9C%8818%E6%97%A5%E6%9B%B4%E6%96%B0
+trojan://7xp5qfsttjh6j46h@go.systmservice.com:39866?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1%E8%A1%8C%E4%B8%9A%E8%BF%8E%E6%9D%A5%E5%AF%92%E5%86%AC%E2%9D%84%EF%B8%8F
+trojan://7xp5qfsttjh6j46h@go.systmservice.com:49103?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#%E6%8A%80%E6%9C%AF24%E5%B0%8F%E6%97%B6%E4%B8%8D%E9%97%B4%E6%96%AD%E7%BB%B4%E6%8A%A4
+trojan://7xp5qfsttjh6j46h@go.systmservice.com:42090?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1%E4%BD%BF%E7%94%A8%E5%89%8D%E7%82%B9%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
+trojan://7xp5qfsttjh6j46h@go.systmservice.com:39729?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1%E6%84%9F%E8%B0%A2%E4%B8%80%E8%B7%AF%E6%94%AF%E6%8C%81%E5%8E%9A%E7%88%B1
 1119 11201124
 trojan://91766123-a4b7-4b31-bc28-2bed5ecceb88@xiaozhuaaaa3.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%E8%BF%91%E6%9C%9F%E5%A2%99%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E8%A2%AD
 trojan://54848892-f1a0-4884-8f71-25262836d0d9@xiaozhuaaaa3.xiaozhu9545515.com:41274?allowInsecure=1&peer=www.itunes.com&tfo=1#%E4%B8%8D%E7%94%A8%E6%97%B6%E6%96%AD%E5%BC%80%E8%BF%9E%E6%8E%A5
@@ -76,13 +77,17 @@ trojan://af9f23a8-8e99-45d6-a517-40483be3b184@xiaozhuaaaa3.xiaozhu9545515.com:49
 trojan://a2e37577-f28b-48da-b539-d295ce39a0cb@xiaozhuaaaa3.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
 trojan://2cd9df46-38c1-41e8-82e6-2b5f6608baab@xiaozhuaaaa3.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
 trojan://6f04f667-a6ed-43d7-b0d4-21abdebee5f9@xiaozhuaaaa3.xiaozhu9545515.com:41274?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE1
-trojan://17aecb20-ddbe-4499-a617-76b0d7349a40@xiaozhuaaaa3.xiaozhu9545515.com:41274?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE1
 trojan://052a4f6a-0097-4229-aa83-6955fd374f96@xiaozhuaaaa3.xiaozhu9545515.com:41277?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A11
-trojan://9dc5c384-df85-4a4b-a4d2-0677374c3d19@xiaozhuaaaa3.xiaozhu9545515.com:41277?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A11
 trojan://7c08cf31-6846-4734-8ab2-b3a2902c8638@xiaozhuaaaa3.xiaozhu9545515.com:41275?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
 1服务器 vlessm
 vless://OjY3ZTBmNjc5LTY1ZjUtNDdkOS04MDBkLTAwNGQ2NjYwNjUyMUBnby5zeXN0bXNlcnZpY2UuY29tOjQ0Mw?remarks=%E7%82%B9%E5%B0%8F%E7%81%AB%E7%AE%AD%E5%B7%A6%E4%B8%8B%E8%A7%92-%E8%AE%BE%E7%BD%AE&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
 vless://OjY3ZTBmNjc5LTY1ZjUtNDdkOS04MDBkLTAwNGQ2NjYwNjUyMUBnby5zeXN0bXNlcnZpY2UuY29tOjQ0Mw?remarks=%E7%82%B9tcp%E7%82%B9%E6%8C%87%E7%BA%B9%E9%80%89%E6%8B%A9chrome140&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
+vless://OjY3ZTBmNjc5LTY1ZjUtNDdkOS04MDBkLTAwNGQ2NjYwNjUyMUBnby5zeXN0bXNlcnZpY2UuY29tOjQ0Mw?remarks=%E5%8F%AF%E8%A7%A3%E9%94%81%E4%BD%BF%E7%94%A8%E4%BB%A5%E4%B8%8B%E7%BA%BF%E8%B7%AF&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
+vless://bm9uZTo2N2UwZjY3OS02NWY1LTQ3ZDktODAwZC0wMDRkNjY2MDY1MjFAZ28uc3lzdG1zZXJ2aWNlLmNvbTo0NDM?remarks=vless-readlity-u7ybql28fz&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
+vless://bm9uZTo2N2UwZjY3OS02NWY1LTQ3ZDktODAwZC0wMDRkNjY2MDY1MjFAZ28uc3lzdG1zZXJ2aWNlLmNvbTo0NDM?remarks=vless-readlity-u7ybql28fz&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
+vless://OjY3ZTBmNjc5LTY1ZjUtNDdkOS04MDBkLTAwNGQ2NjYwNjUyMUBnby5zeXN0bXNlcnZpY2UuY29tOjQ0Mw?remarks=%E5%8F%AF%E8%A7%A3%E9%94%81%E4%BD%BF%E7%94%A8%E4%BB%A5%E4%B8%8B%E7%BA%BF%E8%B7%AF&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
+vless://bm9uZTo2N2UwZjY3OS02NWY1LTQ3ZDktODAwZC0wMDRkNjY2MDY1MjFAZ28uc3lzdG1zZXJ2aWNlLmNvbTo0NDM?remarks=vless-readlity-u7ybql28fz&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
+vless://bm9uZTo2N2UwZjY3OS02NWY1LTQ3ZDktODAwZC0wMDRkNjY2MDY1MjFAZ28uc3lzdG1zZXJ2aWNlLmNvbTo0NDM?remarks=vless-readlity-u7ybql28fz&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
 vless://OjY3ZTBmNjc5LTY1ZjUtNDdkOS04MDBkLTAwNGQ2NjYwNjUyMUBnby5zeXN0bXNlcnZpY2UuY29tOjQ0Mw?remarks=%E5%8F%AF%E8%A7%A3%E9%94%81%E4%BD%BF%E7%94%A8%E4%BB%A5%E4%B8%8B%E7%BA%BF%E8%B7%AF&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
 vless://bm9uZTo2N2UwZjY3OS02NWY1LTQ3ZDktODAwZC0wMDRkNjY2MDY1MjFAZ28uc3lzdG1zZXJ2aWNlLmNvbTo0NDM?remarks=vless-readlity-u7ybql28fz&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
 vless://bm9uZTo2N2UwZjY3OS02NWY1LTQ3ZDktODAwZC0wMDRkNjY2MDY1MjFAZ28uc3lzdG1zZXJ2aWNlLmNvbTo0NDM?remarks=vless-readlity-u7ybql28fz&tls=1&peer=i.s-microsoft.com&udp=1&xtls=2&pbk=jraB0V_rrKQMLVwyG_VM4682ExYbzsb-0CvrqGfvzgI&sid=78e1&fingerprint=chrome
@@ -99,11 +104,6 @@ anytls://1dcfc7fb-1d1b-4137-9672-9cbf4042598d@au.lyhycloud.org:12001?peer=www.bi
 anytls://1dcfc7fb-1d1b-4137-9672-9cbf4042598d@au.lyhycloud.org:12001?peer=www.bing.com&insecure=1&udp=1#AU-02
 anytls://1dcfc7fb-1d1b-4137-9672-9cbf4042598d@lu.lyhycloud.org:12004?peer=www.bing.com&insecure=1&udp=1#LU-01
 anytls://1dcfc7fb-1d1b-4137-9672-9cbf4042598d@lu.lyhycloud.org:12004?peer=www.bing.com&insecure=1&udp=1#LU-02
-服务器1trows gemini专线
-trojan://4u30wjogi0qgquw0@go.systmservice.com:47517?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1Gemini%E4%B8%93%E7%BA%BF3
-trojan://4u30wjogi0qgquw0@go.systmservice.com:28024?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1Gemini%E4%B8%93%E7%BA%BF4
-trojan://4u30wjogi0qgquw0@go.systmservice.com:41028?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1Gemini%E4%B8%93%E7%BA%BF1
-trojan://4u30wjogi0qgquw0@go.systmservice.com:42514?peer=go.systmservice.com&alpn=http/1.1,h3&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dgo.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#1Gemini%E4%B8%93%E7%BA%BF2
 7服务
 trojan://rbzuxd9uwabaqtsd@svan.systmservice.com:12910?peer=svan.systmservice.com&alpn=http/1.1&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dsvan.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#7%E5%A4%87%E7%94%A8%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B81
 trojan://rbzuxd9uwabaqtsd@svan.systmservice.com:27270?peer=svan.systmservice.com&alpn=http/1.1&plugin=obfs-local;obfs%3Dwebsocket;obfs-host%3Dsvan.systmservice.com;obfs-uri%3D/ws&fingerprint=chrome#7%20%E5%A4%87%E7%94%A8%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B82
